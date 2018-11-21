@@ -1,7 +1,18 @@
 # 2018-11-21 
-# OWASP top 10　淺談OWASP Top10 開放網路軟體安全計畫十大弱點 
-https://www.gss.com.tw/index.php/focus/eis/59-eis48/290-owasp-top10
 
+# OWASP TOP 10[2010]
+http://newsletter.ascc.sinica.edu.tw/news/read_news.php?nid=1917
+
+A1 – Injection（注入攻擊） 
+A2 – Cross Site Scripting (XSS)（跨站腳本攻擊） 
+A3 – Broken Authentication and Session Management（身分驗證功能缺失） 
+A4 – Insecure Direct Object References（不安全的物件參考） 
+A5 – Cross Site Request Forgery (CSRF)（跨站冒名請求） 
+A6 – Security Misconfiguration（安全性設定疏失） 
+A7 – Failure to Restrict URL Access（限制URL存取失敗） 
+A8 – Unvalidated Redirects and Forwards（未驗證的導向） 
+A9 – Insecure Cryptographic Storage（未加密的儲存設備）  
+A10 – Insufficient Transport Layer Protection（傳輸層保護不足） 
 
 Cross Site Scripting（XSS）：
 是一種網站應用程式的安全漏洞攻擊，是程式碼注入的一種。它允許惡意使用者將程式碼注入到網頁上，其他使用者在觀看網頁時就會受到影響。這類攻擊通常包含了HTML以及使用者端指令碼語言
